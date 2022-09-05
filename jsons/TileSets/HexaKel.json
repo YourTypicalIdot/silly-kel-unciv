@@ -1,10 +1,14 @@
+{
     "useColorAsBaseTerrain": "false",
     "useSummaryImages": "true",
     "unexploredTileColor": {"r":1,"g":1,"b":1,"a":1},
     "fogOfWarColor": {"r":1,"g":0,"b":0,"a":1},
     "fallbackTileSet": "FantasyHex",
     "tileScale":0.9,
-    "tileScales": {
-    }
     "ruleVariants": {
+    "Grasslands+Forest": ["Kel"]
+    "Grasslands": ["Kel"]
+    "Grasslands+Jungle": ["Kel"]
+    "Grasslands+Forest+Oil": ["Kel"]
     }
+}
