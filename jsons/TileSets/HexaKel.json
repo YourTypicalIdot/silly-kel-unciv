@@ -1,4 +1,5 @@
 {
+
     "useColorAsBaseTerrain": "false",
     "useSummaryImages": "false",
     "unexploredTileColor": {"r":1,"g":1,"b":1,"a":1},
@@ -6,9 +7,12 @@
     "fallbackTileSet": "FantasyHex",
     "tileScale":0.9,
     "ruleVariants": {
+
     "Grasslands+Forest": ["Kel"]
     "Grasslands": ["Kel"]
     "Grasslands+Jungle": ["Kel"]
     "Grasslands+Forest+Oil": ["Kel"]
+
     }
+
 }
