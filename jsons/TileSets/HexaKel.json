@@ -1,0 +1,10 @@
+    "useColorAsBaseTerrain": "false",
+    "useSummaryImages": "true",
+    "unexploredTileColor": {"r":1,"g":1,"b":1,"a":1},
+    "fogOfWarColor": {"r":1,"g":0,"b":0,"a":1},
+    "fallbackTileSet": "HexaRealm",
+    "tileScale":0.9,
+    "tileScales": {
+    }
+    "ruleVariants": {
+    }
