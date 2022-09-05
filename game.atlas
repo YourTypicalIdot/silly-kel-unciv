@@ -4,3 +4,10 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+Images/TileSets/HexaKel/Kel
+  rotate: false
+  xy: 40, 40
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
