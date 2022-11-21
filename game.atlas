@@ -4,14 +4,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-HexaKel/Kel
+HexaKel/Tiles/Grasslands
   rotate: false
   xy: 80, 80
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
-HexaKel/Tiles/Kel
+HexaKel/Tiles/Grasslands+Forest
+  rotate: false
+  xy: 80, 80
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+HexaKel/Tiles/Grasslands+Jungle
+  rotate: false
+  xy: 80, 80
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+HexaKel/Tiles/Grasslands+Forest+Oil
   rotate: false
   xy: 80, 80
   size: 80, 80
