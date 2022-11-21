@@ -4,11 +4,11 @@
     "unexploredTileColor": {"r":1,"g":1,"b":1,"a":1},
     "fogOfWarColor": {"r":1,"g":0,"b":0,"a":1},
     "fallbackTileSet": "FantasyHex",
-    "tileScale":0.9,
+    "tileScale": 0.9,
     "ruleVariants": {
-    "Grasslands+Forest": ["Grasslands+Forest"]
-    "Grasslands": ["Grasslands"]
-    "Grasslands+Jungle": ["Grasslands+Jungle"]
+    "Grasslands+Forest": ["Grasslands+Forest"],
+    "Grasslands": ["Grasslands"],
+    "Grasslands+Jungle": ["Grasslands+Jungle"],
     "Grasslands+Forest+Oil": ["Grasslands+Forest+Oil"]
 
     }
